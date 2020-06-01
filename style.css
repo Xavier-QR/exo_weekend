@@ -1,0 +1,25 @@
+.introduction
+{
+	color: red;
+
+}
+
+.imageflotante
+
+{
+
+	float: left;
+}
+
+.retrait
+
+{
+
+	clear: both;
+}
+
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body
+{
+    background-color: yellow; /* Le fond de la page sera jaune */
+}
